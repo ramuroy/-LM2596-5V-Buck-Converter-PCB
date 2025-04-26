@@ -28,7 +28,7 @@ This is a **PCB design** for a **5V Buck Converter**, created using **KiCad**. T
 ## 🖼️ Preview Images  
 | Schematic | PCB Layout | 3D Render |
 |-----------|------------|-----------|
-| ![Schematic](Images/Schematic.png) | ![PCB](Images/PCB_Layout.png) | ![3D](Images/3d_render.png) |
+| ![Schematic](Images/Schematic.png) | ![PCB](Images/PCB_Layout.png) | ![3D](Images/3d_render1.png) |
 
 ## 🔧 How to Use  
 1️⃣ **Open the KiCad files** in `/Schematics/` and `/PCB_Design/`.  
