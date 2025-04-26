@@ -36,7 +36,7 @@ This is a **PCB design** for a **5V Buck Converter**, created using **KiCad**. T
 3️⃣ **Generate the Gerber files** from `/PCB_Design/` and use `/Gerber_Files/` to order your PCB from a manufacturer.
 
 ## 🙏 Credits  
-This project was created with the help of tutorials from the **[Ampnics YouTube Channel](https://youtube.com/playlist?list=PLxgq6Jtu7shQPHqYjKUVa28CmktTzHDLp&si=2TdaJywcDumlzVk_)**. Big thanks for their awesome content!
+This project was created with the help of tutorials from the **[Ampnics YouTube Channel](https://www.youtube.com/@ampnics)**. Big thanks for their awesome content!
 
 ## 🔗 Links  
 - 🚀 **Project Discussion on LinkedIn**: [LinkedIn](https://www.linkedin.com/posts/ramu-roy-b780382b7_pcbdesign-ams1117-voltageregulator-activity-7317076914295209984-Q4_r?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEwAX4wBY70YZ3l58lvkiXtyCZcnWWrfJAA&utm_campaign=copy_link)  
